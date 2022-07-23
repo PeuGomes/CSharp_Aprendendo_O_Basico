@@ -1,0 +1,15 @@
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\obj\Debug\net6.0\P11-InvestimentoAlongoPrazo.csproj.AssemblyReference.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\obj\Debug\net6.0\P11-InvestimentoAlongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\obj\Debug\net6.0\P11-InvestimentoAlongoPrazo.AssemblyInfoInputs.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\obj\Debug\net6.0\P11-InvestimentoAlongoPrazo.AssemblyInfo.cs
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\obj\Debug\net6.0\P11-InvestimentoAlongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\bin\Debug\net6.0\P11-InvestimentoAlongoPrazo.exe
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\bin\Debug\net6.0\P11-InvestimentoAlongoPrazo.deps.json
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\bin\Debug\net6.0\P11-InvestimentoAlongoPrazo.runtimeconfig.json
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\bin\Debug\net6.0\P11-InvestimentoAlongoPrazo.dll
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\bin\Debug\net6.0\P11-InvestimentoAlongoPrazo.pdb
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\obj\Debug\net6.0\P11-InvestimentoAlongoPrazo.dll
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\obj\Debug\net6.0\refint\P11-InvestimentoAlongoPrazo.dll
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\obj\Debug\net6.0\P11-InvestimentoAlongoPrazo.pdb
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\obj\Debug\net6.0\P11-InvestimentoAlongoPrazo.genruntimeconfig.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P11-InvestimentoAlongoPrazo\obj\Debug\net6.0\ref\P11-InvestimentoAlongoPrazo.dll

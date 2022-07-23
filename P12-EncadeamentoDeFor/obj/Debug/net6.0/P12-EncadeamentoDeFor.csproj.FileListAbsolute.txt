@@ -1,0 +1,15 @@
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\bin\Debug\net6.0\P12-EncadeamentoDeFor.exe
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\bin\Debug\net6.0\P12-EncadeamentoDeFor.deps.json
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\bin\Debug\net6.0\P12-EncadeamentoDeFor.runtimeconfig.json
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\bin\Debug\net6.0\P12-EncadeamentoDeFor.dll
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\bin\Debug\net6.0\P12-EncadeamentoDeFor.pdb
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\obj\Debug\net6.0\P12-EncadeamentoDeFor.csproj.AssemblyReference.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\obj\Debug\net6.0\P12-EncadeamentoDeFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\obj\Debug\net6.0\P12-EncadeamentoDeFor.AssemblyInfoInputs.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\obj\Debug\net6.0\P12-EncadeamentoDeFor.AssemblyInfo.cs
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\obj\Debug\net6.0\P12-EncadeamentoDeFor.csproj.CoreCompileInputs.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\obj\Debug\net6.0\P12-EncadeamentoDeFor.dll
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\obj\Debug\net6.0\refint\P12-EncadeamentoDeFor.dll
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\obj\Debug\net6.0\P12-EncadeamentoDeFor.pdb
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\obj\Debug\net6.0\P12-EncadeamentoDeFor.genruntimeconfig.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\P12-EncadeamentoDeFor\obj\Debug\net6.0\ref\P12-EncadeamentoDeFor.dll

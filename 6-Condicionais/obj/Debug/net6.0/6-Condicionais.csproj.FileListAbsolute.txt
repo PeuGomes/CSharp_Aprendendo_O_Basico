@@ -1,0 +1,15 @@
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\bin\Debug\net6.0\6-Condicionais.exe
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\bin\Debug\net6.0\6-Condicionais.deps.json
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\bin\Debug\net6.0\6-Condicionais.runtimeconfig.json
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\bin\Debug\net6.0\6-Condicionais.dll
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\bin\Debug\net6.0\6-Condicionais.pdb
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\obj\Debug\net6.0\6-Condicionais.csproj.AssemblyReference.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\obj\Debug\net6.0\6-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\obj\Debug\net6.0\6-Condicionais.AssemblyInfoInputs.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\obj\Debug\net6.0\6-Condicionais.AssemblyInfo.cs
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\obj\Debug\net6.0\6-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\obj\Debug\net6.0\6-Condicionais.dll
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\obj\Debug\net6.0\refint\6-Condicionais.dll
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\obj\Debug\net6.0\6-Condicionais.pdb
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\obj\Debug\net6.0\6-Condicionais.genruntimeconfig.cache
+C:\Users\Peu_o\Desktop\AprendendoCSharp\6-Condicionais\obj\Debug\net6.0\ref\6-Condicionais.dll
